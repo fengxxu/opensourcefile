@@ -1,2 +1,1 @@
-Some datasets downloads requires user logging in.
-Using this repo. to store the datasets, and it is research purposes only.
+This repo is used for releasing datasets, storing demo source codes and on-demand stuff.
