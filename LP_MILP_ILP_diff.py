@@ -1,3 +1,11 @@
+# download this file and run following command
+# conda deactivate
+# conda create --name diff python=3.9
+# conda activate diff
+# conda install -c gurobi gurobi
+# python LP_MILP_ILP_diff.py
+
+
 import gurobipy as gp
 from gurobipy import GRB
 
